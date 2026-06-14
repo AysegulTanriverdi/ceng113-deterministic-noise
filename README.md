@@ -1,4 +1,3 @@
-# ceng113-deterministic-noise
 # Order Through Entropy
 
 An exploration of how increasingly strict deterministic rules applied to a pseudorandom sequence can coexist with — and even preserve — full statistical randomness. The stricter the constraint, the stronger the structural guarantee, yet the output remains indistinguishable from noise.
